@@ -16,18 +16,32 @@
 docker ps
 `
 - Zobrazí seznam běžících kontejnerů
-`docker run`
+`
+docker run
+`
 - Vytvoří nový kontejner
-`docker stop`
+`
+docker stop
+`
 - Zastavuje běžící kontejner
-`docker rm`
+`
+docker rm
+`
 - Odstraňuje kontejner
-`docker images`
+`
+docker images
+`
 - Zobrazuje seznam zadaných obrázků
-`docker pull`
+`
+docker pull
+`
 - Stáhne obrázek z Docker registru
-`docker push`
+`
+docker push
+`
 - Nahraje obrázek do Docker registru
-`docker build`
+`
+docker build
+`
 - Vytváří obrázek z Dockerfile
 
