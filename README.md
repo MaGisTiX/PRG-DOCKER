@@ -12,36 +12,35 @@
 - Ověřte, že Docker běží: `sudo docker run hello-world`
 
 ## Základní příkazy Dockeru
-`
+```
 docker ps
-`
+```
 - Zobrazí seznam běžících kontejnerů
-`
+```
 docker run
-`
+```
 - Vytvoří nový kontejner
-`
+```
 docker stop
-`
+```
 - Zastavuje běžící kontejner
-`
+```
 docker rm
-`
+```
 - Odstraňuje kontejner
-`
+```
 docker images
-`
+```
 - Zobrazuje seznam zadaných obrázků
-`
+```
 docker pull
-`
+```
 - Stáhne obrázek z Docker registru
-`
+```
 docker push
-`
+```
 - Nahraje obrázek do Docker registru
-`
+```
 docker build
-`
+```
 - Vytváří obrázek z Dockerfile
-
